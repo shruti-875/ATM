@@ -1,6 +1,6 @@
-# Oasis-Task3
+# ATM
 
-🚀 Successfully completed my ATM Management System project as part of the Oasis Intobyte Internship! 🏦💳 Developed a JavaFX application with seamless user interface and robust backend using MySQL. Excited to share this milestone! #Java #JavaFX #MySQL #SoftwareDevelopment #OasisIntobyte #Internship
+🚀 Successfully completed my ATM Management System project! 🏦💳 Developed a JavaFX application with seamless user interface and robust backend using MySQL. Excited to share this milestone! #Java #JavaFX #MySQL #SoftwareDevelopment #OasisIntobyte #Internship
 
 ![image](https://github.com/shruti-875/Oasis-Task3/assets/107703680/b7de767c-690e-41db-967d-80e46ee6ef35)
 
